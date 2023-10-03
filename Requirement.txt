@@ -1,0 +1,9 @@
+langchain
+huggingface
+streamlit
+faiss-cpu
+tiktoken
+PyPDF2
+streamlit-extras
+huggingface-hub
+python-dotenv
